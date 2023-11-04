@@ -1,7 +1,7 @@
 {
  "display": "fullscreen",
- "start_url": "index.htm?installed=true",
  "name": "Nani Sound - Tour Virtual 360°",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,7 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF",
- "description": "R. Frei Gaspar, 226 - Centro, São Bernardo do Campo - SP, 09720-440"
+ "description": "R. Frei Gaspar, 226 - Centro, São Bernardo do Campo - SP, 09720-440",
+ "start_url": "index.htm"
 }
